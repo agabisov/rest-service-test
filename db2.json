@@ -1,0 +1,175 @@
+{
+  "Cars": [
+    {
+      "id": 1,
+      "speed": 100,
+      "power": 50,
+      "colour": {
+        "colour1": "black",
+        "colour2": "white",
+        "colour3": "red"
+      },
+      "cost": 10000,
+      "model": "BMW"
+    },
+    {
+      "id": 2,
+      "speed": 150,
+      "power": 100,
+      "colour": {
+        "colour1": "black",
+        "colour2": "white",
+        "colour3": "red"
+      },
+      "cost": 10050,
+      "model": "Bently"
+    },
+    {
+      "id": 3,
+      "speed": 200,
+      "power": 150,
+      "colour": {
+        "colour1": "black",
+        "colour2": "white",
+        "colour3": "red"
+      },
+      "cost": 40000,
+      "model": "Kia"
+    },
+    {
+      "id": 4,
+      "speed": 250,
+      "power": 300,
+      "colour": {
+        "colour1": "black",
+        "colour2": "white",
+        "colour3": "red"
+      },
+      "cost": 100000,
+      "model": "Ford"
+    },
+    {
+      "id": 5,
+      "speed": 150,
+      "power": 350,
+      "colour": {
+        "colour1": "black",
+        "colour2": "white",
+        "colour3": "red"
+      },
+      "cost": 120000,
+      "model": "Man"
+    },
+    {
+      "id": 6,
+      "speed": 120,
+      "power": 90,
+      "colour": {
+        "colour1": "black",
+        "colour2": "white",
+        "colour3": "red"
+      },
+      "cost": 40000,
+      "model": "Bogdan"
+    },
+    {
+      "id": 7,
+      "speed": 201,
+      "power": 150,
+      "colour": {
+        "colour1": "Blue",
+        "colour2": "Yellow",
+        "colour3": "Green"
+      },
+      "cost": 50000,
+      "model": "Honda"
+    },
+    {
+      "id": 8,
+      "speed": 200,
+      "power": 150,
+      "colour": {
+        "colour1": "Blue",
+        "colour2": "Yellow",
+        "colour3": "Green"
+      },
+      "cost": 50000,
+      "model": "Honda"
+    },
+    {
+      "id": 10,
+      "speed": 200,
+      "power": 150,
+      "colour": {
+        "colour1": "Blue",
+        "colour2": "Yellow",
+        "colour3": "Green"
+      },
+      "cost": 50000,
+      "model": "Honda"
+    },
+    {
+      "id": 11,
+      "speed": 201,
+      "power": 150,
+      "colour": {
+        "colour1": "Blue",
+        "colour2": "Yellow",
+        "colour3": "Green"
+      },
+      "cost": 50000,
+      "model": "Honda"
+    }
+  ],
+  "PersonalCar": [
+    {
+      "carsId": 1,
+      "id": 1,
+      "seets": 4
+    },
+    {
+      "carsId": 2,
+      "id": 2,
+      "seets": 4
+    },
+    {
+      "carsId": 3,
+      "id": 3,
+      "seets": 4
+    },
+    {
+      "carsId": 4,
+      "id": 4,
+      "seets": 4
+    },
+    {
+      "carsId": 4,
+      "id": 5,
+      "seets": 2
+    }
+  ],
+  "PublicTransport": [
+    {
+      "carsId": 6,
+      "id": 1,
+      "seets": 40
+    }
+  ],
+  "ServiceTransport": [
+    {
+      "carsId": 1,
+      "id": 1,
+      "type": {
+        "military": "BMP",
+        "ambulance": "ambulance"
+      }
+    }
+  ],
+  "Truck": [
+    {
+      "carsId": 5,
+      "id": 1,
+      "capacity": 20
+    }
+  ]
+}
